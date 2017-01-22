@@ -13,10 +13,12 @@
 		<header>
 			<h1>Personal Website Project - Milestone 1</h1>
 		</header>
-		<h2>Purpose:</h2>
-		<h2>Audience:</h2>
-		<h2>Goal:</h2>
-
+		<h2>Purpose</h2>
+		<ol>
+			<li><strong>Purpose:</strong> This is the purpose.</li>
+			<li><strong>Audience:</strong> This is the audience.</li>
+			<li><strong>Goal:</strong> This is the goal.</li>
+		</ol>
 
 		<h2>Persona</h2>
 
@@ -39,41 +41,6 @@
 			<br><br>Rosie debuted at the 2017 Consumer Electronics Show and was featured by multiple news and media outlets. Engadget.com did a write-up on Rosie and George would like to see the initial reactions and comments that potential customers have on the site. He can also interact with potential customers and answer questions that they might have.
 		</ol>
 
-		<h2>Interaction Flow</h2>
-		<ol>
-			<li>George navigates to Engadget.com and is already logged in.</li>
-			<li>George navigates to the article about Rosie.</li>
-			<li>George reads comments about the article.</li>
-			<li>George replies to comments.</li>
-
-		</ol>
-
-		<h2>Conceptual Model</h2>
-		<ul class="Conceptual-Model">
-			<strong>PROFILE</strong>
-			<p>profileId (Primary Key)<br>
-				profileEmail<br>
-				profileHash<br>
-				profileSalt<br>
-			</p>
-
-			<strong>ARTICLE</strong>
-			<p>articleId<br>
-				articleAuthor<br>
-				articleContent<br>
-				articleDate<br>
-			</p>
-
-			<strong>COMMENTS</strong>
-			<p>commentId<br>
-				commentArticleId<br>
-				commentProfileId<br>
-				commentContent<br>
-				commentParentCommentId<br>
-				commentDate</p>
-
-		</ul>
-		<!-- This is a comment -->
 	</main>
 
 </html>
