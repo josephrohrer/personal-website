@@ -13,7 +13,13 @@
 		<header>
 			<h1>Personal Website Project - Milestone 1</h1>
 		</header>
-		<h2>User Persona</h2>
+		<h2>Purpose:</h2>
+		<h2>Audience:</h2>
+		<h2>Goal:</h2>
+
+
+		<h2>Persona</h2>
+
 		<ol>
 			<p><strong>Name: </strong>George Jetson<br>
 				<strong>Age: </strong>34</p>
