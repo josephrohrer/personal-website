@@ -35,7 +35,10 @@
 			</p>
 
 		<h2>Use Case</h2>
-		<p>George is frustrated with how hard it is to communicate with a mass amount of people about a product. He could email every single person who is interested in Rosie but that would take up all of his time. He needs a medium where he can answer questions from customers and not have to answer the same things over and over again.</p>
+			<p>Three months ago, I reached out to Charles Harvey to show my interest in a potential job position in his group at Sandia National Laboratories. I included a link to my portfolio website at that time. Charles' workload has finally become too much to bear and he has received the approval and funding necessary to hire another web developer. He remembers my interest and pulls up my website.<br><br>
+			My website portfolio already has an updated resume section with relevant experience and there is also social media links including LinkedIn for a more detailed look at experience. He is able to click on some links and see some websites that I've completed and the type of work that i'm capable of doing. He also opens up the site on his iPhone 6 to make sure the site is mobile friendly and opens it on his Windows desktop to make sure its all standards compliant. <br><br>
+			With this quick snapshot, Charles already knows he is able to recommend me for the job position. He forwards my information to the hiring manager and asks to have me scheduled for an interview as soon as possible.
+			</p>
 
 	</main>
 </html>
