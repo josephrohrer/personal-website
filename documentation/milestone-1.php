@@ -11,18 +11,17 @@
 
 	<main>
 		<header>
-			<h1>Personal Website Project - Milestone 1</h1>
+			<h1>Personal Website Project<br>
+				Milestone 1</h1>
 		</header>
-		<h2>Purpose</h2>
-		<ol>
-			<li><strong>Purpose:</strong> This is the purpose.</li>
-			<li><strong>Audience:</strong> This is the audience.</li>
-			<li><strong>Goal:</strong> This is the goal.</li>
-		</ol>
+		<h2>Purpose, Audience & Goal</h2>
+			<ol>
+				<li><strong>Purpose:</strong> This is the purpose.</li>
+				<li><strong>Audience:</strong> This is the audience.</li>
+				<li><strong>Goal:</strong> This is the goal.</li>
+			</ol>
 
 		<h2>Persona</h2>
-
-		<ol>
 			<p><strong>Name: </strong>George Jetson<br>
 				<strong>Age: </strong>34</p>
 
@@ -33,8 +32,6 @@
 			<p><strong>Attitudes and Behaviors: </strong> George hates websites that are hard to use. He likes that Engadget is easy to use and that users are able to comment on articles. He also likes that the users who read Engadget are also the people who would potentially buy his robot.</p>
 
 			<p><strong>Frustrations and Needs:</strong> George is frustrated with how hard it is to communicate with a mass amount of people about a product. He could email every single person who is interested in Rosie but that would take up all of his time. He needs a medium where he can answer questions from customers and not have to answer the same things over and over again.</p>
-
-		</ol>
 
 		<h2>Use Case</h2>
 		<ol>George has to stay up on the latest and greatest technology devices for his job, as well as for fun. He reads <a href="http://www.engadget.com">Engadget.com</a> regularly to keep up, as well as to research some of his competition.
