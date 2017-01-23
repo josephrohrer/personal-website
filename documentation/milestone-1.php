@@ -14,9 +14,9 @@
 				Milestone 1</h1>
 		</header>
 		<h2>Purpose, Audience & Goal</h2>
-			<p><strong>Purpose:</strong> This is the purpose.<br>
-				<strong>Audience:</strong> This is the audience.<br>
-				<strong>Goal:</strong> This is the goal.<br>
+			<p><strong>Purpose:</strong> This project is a professional website starting page.<br>
+				<strong>Audience:</strong> This site will be targeted towards individuals looking to get more information about me and see some work that i have accomplished. This will include: hiring managers, recruiters, and owners of small businesses.<br>
+				<strong>Goal:</strong> The goal of this site will be to showcase some of the work I've done. They will have already seen my resume through an online application or e-mail which will have directed them to this portfolio. They will be able to further connect with me through social media profiles and/or a contact form on the page. This page will also serve as a starting point for a much broader online presence which will include a more extensive portfolio of work as well as a technology blog.<br>
 			</p>
 
 		<h2>Persona</h2>
