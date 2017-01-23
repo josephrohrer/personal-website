@@ -25,12 +25,14 @@
 
 			<p><strong>Profession: </strong> Charles is a Software Systems Engineer for Sandia National Laboratories, a national research and development laboratory located in Albuquerque, New Mexico.</p>
 
-			<p><strong>Technology: </strong>Charles used his work's funding to purchase a 15" Macbook Pro, an iPhone 6 Plus. He also has an older Dell desktop that was recently upgraded to Windows 10 to do testing on Internet Explorer and a Samsung Galaxy S5 to test websites on Android.</p>
+			<p><strong>Technology: </strong>Charles used his work's funding to purchase a 15" Macbook Pro and an iPhone 6 Plus. He also has an older Dell desktop that was recently upgraded to Windows 10 to do testing on Internet Explorer and a Samsung Galaxy S5 to test websites on Android.</p>
 
-			<p><strong>Attitudes and Behaviors: </strong> Charles knows that his team needs to hire another member because of the amount of work he is doing on a top secret project. As a friend of his, I reached out to him for potential job opportunities and sent him the link to my website. He's able to pass that along to the hiring manager </p>
+			<p><strong>Attitudes and Behaviors: </strong> Charles knows that his team needs to hire another member because of the amount of work he is doing on a top secret project. He is overwhelmed with the amount of work he is doing and has begun exploring the idea of hiring someone new. As a friend of his, I reached out to him for potential job opportunities several months ago and sent him the link to my website in case this opportunity arose. </p>
 
-			<p><strong>Frustrations and Needs:</strong> Charles needs to hire someone that
-				local
+			<p><strong>Frustrations and Needs:</strong> The process to hire may take some time so the sooner that he is able to pick someone, the better. He doesn't necessarily need the most experienced developer, but someone reliable and willing to do the code to get the job done. He's frustrated that the process to get a security clearance is taking 9 months to a year so he understands that he's unable to pass off some of the Q-cleared work, but a new hire would still be a huge weight lifted off his shoulders.</p>
+
+			<p><strong>Goals:</strong>	 Charles' goal would be to have a candidate to submit to the hiring manager as quickly as possible. The sooner that he's able to hire a Web Developer, the sooner he can have some relief in regards to the workload. There are a decent amount of candidates that apply for the position from around the country, but Charles knows that if he's able to hire locally and someone he can trust, he'll be able to get them started sooner.
+			</p>
 
 
 				George is frustrated with how hard it is to communicate with a mass amount of people about a product. He could email every single person who is interested in Rosie but that would take up all of his time. He needs a medium where he can answer questions from customers and not have to answer the same things over and over again.</p>
