@@ -14,18 +14,18 @@
 				Milestone 1</h1>
 		</header>
 		<h2>Purpose, Audience & Goal</h2>
-			<p><strong>Purpose:</strong> This project is a professional website starting page.<br>
-				<strong>Audience:</strong> This site will be targeted towards individuals looking to get more information about me and see some work that i have accomplished. This will include: hiring managers, recruiters, and owners of small businesses.<br>
-				<strong>Goal:</strong> The goal of this site will be to showcase some of the work I've done. They will have already seen my resume through an online application or e-mail which will have directed them to this portfolio. They will be able to further connect with me through social media profiles and/or a contact form on the page. This page will also serve as a starting point for a much broader online presence which will include a more extensive portfolio of work as well as a technology blog.<br>
+			<p><strong>Purpose:</strong> This project is a professional website starting page.<br><br>
+			<strong>Audience:</strong> This site will be targeted towards individuals looking to get more information about me and see some work that i have accomplished. This will include: hiring managers, recruiters, and owners of small businesses.<br><br>
+			<strong>Goal:</strong> The goal of this site will be to showcase some of the work I've done. They will have already seen my resume through an online application or e-mail which will have directed them to this portfolio. They will be able to further connect with me through social media profiles and/or a contact form on the page. This page will also serve as a starting point for a much broader online presence which will include a more extensive portfolio of work as well as a technology blog.
 			</p>
 
 		<h2>Persona</h2>
-			<p><strong>Name: </strong>George Jetson<br>
-				<strong>Age: </strong>34</p>
+			<p><strong>Name: </strong>Charles Harvey<br>
+				<strong>Age: </strong>37</p>
 
-			<p><strong>Profession: </strong> George is a Product Development Manager for a company called "Big Dipper." Big Dipper is a start-up company whose first product is going to be building a robot named Rosie. Rosie is a robotic maid and housekeeper that will assist a family with everyday tasks including cooking, cleaning, and babysitting. </p>
+			<p><strong>Profession: </strong> Charles is a Software Systems Engineer for Sandia National Laboratories.</p>
 
-			<p><strong>Technology: </strong> Big Dipper provided George with a new 15" Macbook Pro (dongles in tow) updated to Mac OS Sierra and an iPhone 7 Plus with iOS 10.</p>
+			<p><strong>Technology: </strong> .</p>
 
 			<p><strong>Attitudes and Behaviors: </strong> George hates websites that are hard to use. He likes that Engadget is easy to use and that users are able to comment on articles. He also likes that the users who read Engadget are also the people who would potentially buy his robot.</p>
 
