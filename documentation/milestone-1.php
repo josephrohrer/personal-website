@@ -34,11 +34,8 @@
 			<p><strong>Goals:</strong>	 Charles' goal would be to have a candidate to submit to the hiring manager as quickly as possible. The sooner that he's able to hire a Web Developer, the sooner he can have some relief in regards to the workload. There are a decent amount of candidates that apply for the position from around the country, but Charles knows that if he's able to hire locally and someone he can trust, he'll be able to get them started sooner.
 			</p>
 
-
-				George is frustrated with how hard it is to communicate with a mass amount of people about a product. He could email every single person who is interested in Rosie but that would take up all of his time. He needs a medium where he can answer questions from customers and not have to answer the same things over and over again.</p>
-
 		<h2>Use Case</h2>
-		<p>
+		<p>George is frustrated with how hard it is to communicate with a mass amount of people about a product. He could email every single person who is interested in Rosie but that would take up all of his time. He needs a medium where he can answer questions from customers and not have to answer the same things over and over again.</p>
 
 	</main>
 </html>
