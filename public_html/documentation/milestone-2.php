@@ -15,17 +15,15 @@
 		</header>
 		<h2>Content Strategy</h2>
 		<p>This site will be one page and will consist of the following sections:<br><br>
-			<strong>Welcome:</strong> <br><br>
-			<strong>About Me:</strong> <br><br>
-			<strong>Portfolio:</strong> The Portfolio will contain small thumbnails of marketing, graphic design, and web development work. Each thumbnail on click will then have a larger overlay image to actually showcase the work.<br><br>
-			<strong>Contact:</strong> This section will contain a simple contact form, an email address, and links to my social media profiles: LinkedIn, Twitter, Facebook, and Github.
+			<strong>Welcome:</strong> The Welcome section will have a professional photograph and a summary paragraph.<br><br>
+			<strong>About Me:</strong> The About Me section will have a list of work experience. It will also feature a list of core skills.<br><br>
+			<strong>Portfolio:</strong> The Portfolio section will contain small thumbnails of marketing, graphic design, and web development work. Each thumbnail on click will then have a larger overlay image to actually showcase the work.<br><br>
+			<strong>Contact:</strong> The Contact section will contain a simple contact form, an email address, and links to my social media profiles: LinkedIn, Twitter, Facebook, and Github.
 		</p>
 
 
-		<h2>Wireframes</h2><br>
+		<h2>Wireframes</h2>
 		<h3>Mobile Layout</h3>
-		<p>
-		</p>
 		<h3>Full Screen Layout</h3>
 		<p>
 		</p>
