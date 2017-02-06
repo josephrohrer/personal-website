@@ -20,8 +20,7 @@
 			<strong>Portfolio:</strong> The Portfolio section will contain small thumbnails of marketing, graphic design, and web development work. Each thumbnail on click will then have a larger overlay image to actually showcase the work.<br><br>
 			<strong>Contact:</strong> The Contact section will contain a simple contact form, an email address, and links to my social media profiles: LinkedIn, Twitter, Facebook, and Github.<br>
 		</p>
-
-
+		<br>
 		<h2>Wireframes</h2>
 		<h3>Mobile Layout</h3>
 		<img src="../../images/mobile1.jpg" alt="Mobile Wireframe 1" width="300">
