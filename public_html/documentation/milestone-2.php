@@ -25,7 +25,7 @@
 		<h2>Wireframes</h2>
 		<h3>Mobile Layout</h3>
 		<h3>Full Screen Layout</h3>
-		<img src="images/wireframe.jpg" alt="Fullscreen Wireframe">
+		<img src="../images/wireframe.jpg" alt="Fullscreen Wireframe">
 		<p>
 		</p>
 	</main>
