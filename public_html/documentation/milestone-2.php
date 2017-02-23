@@ -4,7 +4,7 @@
 		<meta charset="utf-8" />
 
 		<!-- load custom css here -->
-		<link href="css/style.css" rel="stylesheet" type="text/css" />
+		<link href="../css/style.css" rel="stylesheet" type="text/css" />
 
 		<title>Personal Website Project - Milestone 2a</title>
 	</head>
@@ -23,12 +23,12 @@
 		<br>
 		<h2>Wireframes</h2>
 		<h3>Mobile Layout</h3>
-		<img src="../../images/mobile1.jpg" alt="Mobile Wireframe 1" width="300">
-		<img src="../../images/mobile2.jpg" alt="Mobile Wireframe 2" width="300">
-		<img src="../../images/mobile3.jpg" alt="Mobile Wireframe 3" width="300">
-		<img src="../../images/mobile4.jpg" alt="Mobile Wireframe 4" width="300">
+		<img src="../images/mobile1.jpg" alt="Mobile Wireframe 1" width="300">
+		<img src="../images/mobile2.jpg" alt="Mobile Wireframe 2" width="300">
+		<img src="../images/mobile3.jpg" alt="Mobile Wireframe 3" width="300">
+		<img src="../images/mobile4.jpg" alt="Mobile Wireframe 4" width="300">
 		<h3>Full Screen Layout</h3>
-		<img src="../../images/wireframe.jpg" alt="Fullscreen Wireframe" height="75%">
+		<img src="../images/wireframe.jpg" alt="Fullscreen Wireframe" height="75%">
 		<p></p>
 	</main>
 </html>
