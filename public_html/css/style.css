@@ -1,4 +1,46 @@
+a:hover {
+	color: #941100;
+}
+
+a:active {
+	color: white;
+}
+
+h1 {
+	font-weight: bold;
+	font-family: Helvetica;
+	font-size: 32px;
+	font-style: bold;
+	color: #941100;
+}
+
 .menu {
 	font-family: Helvetica;
-	font-size: 24px;
+	font-size: 22px;
 }
+
+.firstname {
+	font-family: Helvetica;
+	color: #941100
+}
+
+.name {
+	font-family: Helvetica;
+	font-size: 30px;
+}
+
+.btn-primary {
+	color: white;
+	background-color: #941100;
+	border-color: #941100;
+	font-family: Helvetica;
+	font-weight: 700;
+
+.btn-xl {
+	color: white;
+	background-color: #941100;
+	border-color: #941100;
+	font-weight: 700;
+	border-radius: 3px;
+	font-size: 18px;
+	padding: 20px 40px;

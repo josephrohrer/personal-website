@@ -20,6 +20,7 @@ html {
         -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
         -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
         transition: background .5s ease-in-out,padding .5s ease-in-out;
+        border-bottom: thin dotted #941100;
     }
 
     .top-nav-collapse {
@@ -34,28 +35,28 @@ of those sections to manage the look and feel of the site. */
 
 .intro-section {
     height: 100%;
-    padding-top: 150px;
+    padding-top: 100px;
     text-align: center;
     background: #fff;
 }
 
 .about-section {
-    height: 100%;
-    padding-top: 150px;
+    height: 200px;
+    padding-top: 35px;
     text-align: center;
     background: #eee;
 }
 
 .portfolio-section {
     height: 100%;
-    padding-top: 150px;
+    padding-top: 35px;
     text-align: center;
     background: #fff;
 }
 
 .contact-section {
-    height: 100%;
-    padding-top: 150px;
+    height:50%;
+    padding-top: 35px;
     text-align: center;
     background: #eee;
 }
