@@ -30,6 +30,29 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
+	<!-- jQuery -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js" type="text/javascript"></script>
+
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+			  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+			  crossorigin="anonymous"></script>
+
+	<!-- jQuery -->
+	<script src="js/jquery.js"></script>
+
+
+	<!-- Scrolling Nav JavaScript -->
+	<script src="js/jquery.easing.min.js"></script>
+	<script src="js/scrolling-nav.js"></script>
+
+	<!-- MY Custom JS -->
+	<script src="js/custom.js" type="text/javascript"></script>
+	<style type="text/css">
+		.page-scroll {
+		}
+	</style>
+
 </head>
 
 <!-- The #page-top ID is part of the scrolling feature - the data-spy and data-target are part of the built-in Bootstrap scrollspy function -->
@@ -111,13 +134,100 @@
 
     <!-- Portfolio Section -->
     <section id="portfolio" class="portfolio-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <h1>Portfolio</h1>
-                </div>
-            </div>
-        </div>
+		 <div class="container">
+			 <div class="row">
+				 <div class="col-lg-12 text-center">
+					 <h1 class="section-heading">PORTFOLIO</h1>
+					 <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+				 </div>
+			 </div>
+			 <div class="row">
+				 <div class="col-md-4 col-sm-6 portfolio-item">
+					 <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+						 <div class="portfolio-hover">
+							 <div class="portfolio-hover-content">
+								 <i class="fa fa-plus fa-3x"></i>
+							 </div>
+						 </div>
+						 <img src="images/portfolio/roundicons.png" class="img-responsive" alt="">
+					 </a>
+					 <div class="portfolio-caption">
+						 <h4>Round Icons</h4>
+						 <p class="text-muted">Graphic Design</p>
+					 </div>
+				 </div>
+				 <div class="col-md-4 col-sm-6 portfolio-item">
+					 <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+						 <div class="portfolio-hover">
+							 <div class="portfolio-hover-content">
+								 <i class="fa fa-plus fa-3x"></i>
+							 </div>
+						 </div>
+						 <img src="images/portfolio/startup-framework.png" class="img-responsive" alt="">
+					 </a>
+					 <div class="portfolio-caption">
+						 <h4>Startup Framework</h4>
+						 <p class="text-muted">Website Design</p>
+					 </div>
+				 </div>
+				 <div class="col-md-4 col-sm-6 portfolio-item">
+					 <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+						 <div class="portfolio-hover">
+							 <div class="portfolio-hover-content">
+								 <i class="fa fa-plus fa-3x"></i>
+							 </div>
+						 </div>
+						 <img src="images/portfolio/treehouse.png" class="img-responsive" alt="">
+					 </a>
+					 <div class="portfolio-caption">
+						 <h4>Treehouse</h4>
+						 <p class="text-muted">Website Design</p>
+					 </div>
+				 </div>
+				 <div class="col-md-4 col-sm-6 portfolio-item">
+					 <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+						 <div class="portfolio-hover">
+							 <div class="portfolio-hover-content">
+								 <i class="fa fa-plus fa-3x"></i>
+							 </div>
+						 </div>
+						 <img src="images/portfolio/golden.png" class="img-responsive" alt="">
+					 </a>
+					 <div class="portfolio-caption">
+						 <h4>Golden</h4>
+						 <p class="text-muted">Website Design</p>
+					 </div>
+				 </div>
+				 <div class="col-md-4 col-sm-6 portfolio-item">
+					 <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
+						 <div class="portfolio-hover">
+							 <div class="portfolio-hover-content">
+								 <i class="fa fa-plus fa-3x"></i>
+							 </div>
+						 </div>
+						 <img src="images/portfolio/escape.png" class="img-responsive" alt="">
+					 </a>
+					 <div class="portfolio-caption">
+						 <h4>Escape</h4>
+						 <p class="text-muted">Website Design</p>
+					 </div>
+				 </div>
+				 <div class="col-md-4 col-sm-6 portfolio-item">
+					 <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+						 <div class="portfolio-hover">
+							 <div class="portfolio-hover-content">
+								 <i class="fa fa-plus fa-3x"></i>
+							 </div>
+						 </div>
+						 <img src="images/portfolio/dreams.png" class="img-responsive" alt="">
+					 </a>
+					 <div class="portfolio-caption">
+						 <h4>Dreams</h4>
+						 <p class="text-muted">Website Design</p>
+					 </div>
+				 </div>
+			 </div>
+		 </div>
     </section>
 
     <!-- Contact Section -->
@@ -175,15 +285,6 @@
         </div>
     </footer>
 
-    <!-- jQuery -->
-    <script src="js/jquery.js"></script>
-
-    <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
-
-    <!-- Scrolling Nav JavaScript -->
-    <script src="js/jquery.easing.min.js"></script>
-    <script src="js/scrolling-nav.js"></script>
 
 </body>
 
