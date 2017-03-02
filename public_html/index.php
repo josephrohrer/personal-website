@@ -46,7 +46,6 @@
 	<!-- Your JavaScript Form Validator -->
 	<script src="js/form-validate.js"></script>
 
-
 	<!-- Scrolling Nav JavaScript -->
 	<script src="js/jquery.easing.min.js"></script>
 	<script src="js/scrolling-nav.js"></script>
@@ -246,33 +245,45 @@
                 </div>
             </div>
             <div class="row">
-                <form id="contactForm" name="sentMessage" novalidate="">
+                <form id="contactForm" name="sentMessage" action="php/mailer.php" method="post">
                     <div class="col-md-6">
                         <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Your Name *" id="name" required
+                            <input type="text" class="form-control" placeholder="Your Name *" id="name" name="name" required
                                    data-validation-required-message="Please enter your name.">
                         </div>
                         <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Your Email *" id="email" required
+                            <input type="text" class="form-control" placeholder="Your Email *" id="email" name="email" required
                                    data-validation-required-message="Please enter your email address.">
                         </div>
                         <div class="form-group">
-                            <input type="tel" class="form-control" placeholder="Your Phone *" id="phone" required
+                            <input type="tel" class="form-control" placeholder="Your Phone *" id="phone" name="phone" required
                                    data-validation-required-message="Please enter your phone number.">
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="form-group">
-								<textarea class="form-control" placeholder="Your Message *" id="message" rows="6" required
+								<textarea class="form-control" placeholder="Your Message *" id="message" name="message" rows="6" required
                                   data-validation-required-message="Please enter a message."></textarea>
                             <p class="help-block text-danger"></p>
                         </div>
                     </div>
                     <div class="clearfix"></div>
-                    <div class="col-lg-12 text-center">
+
+						 <!-- reCAPTCHA -->
+						 <div class="g-recaptcha" data-sitekey="6LencRcUAAAAAFTwMMC_Hv00hlvTxfaee7zTFmVs"></div>
+
+						 <div class="col-lg-12 text-center">
                         <div id="success"></div>
+
                         <button type="submit" class="btn-xl">Send Message</button>
                     </div>
+
+						 <!--empty area for form error/success output-->
+						 <div class="row">
+							 <div class="col-xs-12">
+								 <div class= "alert alert-danger" id="output-area"></div>
+							 </div>
+						 </div>
                 </form>
             </div>
         </div>
