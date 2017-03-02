@@ -245,7 +245,7 @@
                 </div>
             </div>
             <div class="row">
-                <form id="contactForm" name="sentMessage" action="php/mailer.php" method="post">
+                <form id="contactForm" action="php/mailer.php" method="post">
                     <div class="col-md-6">
                         <div class="form-group">
                             <input type="text" class="form-control" placeholder="Your Name *" id="name" name="name" required
@@ -256,8 +256,8 @@
                                    data-validation-required-message="Please enter your email address.">
                         </div>
                         <div class="form-group">
-                            <input type="tel" class="form-control" placeholder="Your Phone *" id="phone" name="phone" required
-                                   data-validation-required-message="Please enter your phone number.">
+                            <!--<input type="tel" class="form-control" placeholder="Your Phone *" id="phone" name="phone" required
+                                   data-validation-required-message="Please enter your phone number.">-->
                         </div>
                     </div>
                     <div class="col-md-6">
@@ -276,15 +276,18 @@
                         <div id="success"></div>
 
                         <button type="submit" class="btn-xl">Send Message</button>
-                    </div>
+
+						 </div>
 
 						 <!--empty area for form error/success output-->
 						 <div class="row">
 							 <div class="col-xs-12">
-								 <div class= "alert alert-danger" id="output-area"></div>
+								 <div id="output-area"></div>
 							 </div>
 						 </div>
+
                 </form>
+
             </div>
         </div>
     </section>

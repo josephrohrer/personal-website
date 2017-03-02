@@ -19,10 +19,10 @@ $(document).ready(function(){
 				email: true,
 				required: true
 			},
-			phone: {
-				phoneUs: true,
-				required: true
-			},
+			// phone: {
+				//phoneUs: true,
+				//required: true
+			//},
 			message: {
 				required: true,
 				maxlength: 2000
@@ -38,10 +38,10 @@ $(document).ready(function(){
 				email: "Please enter a valid email address.",
 				required: "Please enter a valid email address."
 			},
-			phone: {
-				required: "Please enter a phone number.",
-				phoneUs: "Please enter a valid phone number."
-			},
+			//phone: {
+				//required: "Please enter a phone number.",
+				//phoneUs: "Please enter a valid phone number."
+			//},
 			message: {
 				required: "Please enter a message.",
 				maxlength: "2000 characters max."
@@ -49,7 +49,7 @@ $(document).ready(function(){
 		},
 
 		submitHandler: function(form) {
-			$("#contact-form").ajaxSubmit({
+			$("#contactForm").ajaxSubmit({
 				type: "POST",
 				url: $("#contactForm").attr("action"),
 
