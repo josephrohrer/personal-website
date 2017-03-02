@@ -33,13 +33,18 @@
 	<!-- jQuery -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js" type="text/javascript"></script>
 
+	<!-- jQuery Form, Validate, Additional Methods -->
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.16.0/jquery.validate.min.js" type="text/javascript"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.16.0/additional-methods.min.js" type="text/javascript"></script>
+
 	<!-- Latest compiled and minified JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
 			  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
 			  crossorigin="anonymous"></script>
 
-	<!-- jQuery -->
-	<script src="js/jquery.js"></script>
+	<!-- Your JavaScript Form Validator -->
+	<script src="js/form-validate.js"></script>
 
 
 	<!-- Scrolling Nav JavaScript -->
@@ -52,6 +57,8 @@
 		.page-scroll {
 		}
 	</style>
+
+	<script src='https://www.google.com/recaptcha/api.js'></script>
 
 </head>
 
