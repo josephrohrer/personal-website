@@ -38,9 +38,8 @@ $(document).ready(function(){
 				email: "Please enter a valid email address.",
 				required: "Please enter a valid email address."
 			},
-			//phone: {
-				//required: "Please enter a phone number.",
-				//phoneUs: "Please enter a valid phone number."
+			phone: {
+				phoneUs: "Please enter a valid phone number."
 			//},
 			message: {
 				required: "Please enter a message.",
