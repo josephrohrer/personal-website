@@ -50,6 +50,7 @@ of those sections to manage the look and feel of the site. */
 .portfolio-section {
 	/**height: 100%;**/
 	padding-top: 50px;
+	padding-bottom: 50px;
 	text-align: center;
 	background: #eee;
 }
@@ -60,4 +61,11 @@ of those sections to manage the look and feel of the site. */
 	padding-bottom:30px;
 	text-align: center;
 	background: #fff;
+}
+
+@media (max-width: 767px) {
+	.contact-section {
+		padding-right: 30px;
+		padding-left: 30px;
+	}
 }
