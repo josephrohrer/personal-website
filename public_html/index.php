@@ -170,11 +170,11 @@
 									<i class="fa fa-plus fa-3x"></i>
 								</div>
 							</div>
-							<img src="images/portfolio/startup-framework.png" class="img-responsive" alt="">
+							<img src="images/portfolio/bestbuy.png" class="img-responsive" alt="">
 						</a>
 						<div class="portfolio-caption">
-							<h4>Startup Framework</h4>
-							<p class="text-muted">Website Design</p>
+							<h4>Best Buy - Connected Store Pilot</h4>
+							<p class="text-muted">Graphic Design</p>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 portfolio-item">
@@ -363,9 +363,9 @@
 						<div class="row">
 							<div class="col-lg-8 col-lg-offset-2">
 								<div class="modal-body">
-									<h2>Project Heading</h2>
+									<h2>Best Buy - Connected Store</h2>
 									<p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-									<img class="img-responsive img-centered" src="images/portfolio/startup-framework-preview.png" alt="">
+									<img class="img-responsive img-centered" src="images/portfolio/bestbuy-preview.png" alt="">
 									<p><a href="http://designmodo.com/startup/?u=787">Startup Framework</a> is a website builder for professionals. Startup Framework contains components and complex blocks (PSD+HTML Bootstrap themes and templates) which can easily be integrated into almost any design. All of these components are made in the same style, and can easily be integrated into projects, allowing you to create hundreds of solutions for your future projects.</p>
 									<p>You can preview Startup Framework <a href="http://designmodo.com/startup/?u=787">here</a>.</p>
 									<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
