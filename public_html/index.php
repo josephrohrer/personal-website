@@ -191,7 +191,7 @@
 							<p class="text-muted">Website Design</p>
 						</div>
 					</div>
-					<div class="col-md-4 col-sm-6 portfolio-item">
+					<!--<div class="col-md-4 col-sm-6 portfolio-item">
 						<a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
 							<div class="portfolio-hover">
 								<div class="portfolio-hover-content">
@@ -204,8 +204,8 @@
 							<h4>Golden</h4>
 							<p class="text-muted">Website Design</p>
 						</div>
-					</div>
-					<div class="col-md-4 col-sm-6 portfolio-item">
+					</div>--->
+					<!--<div class="col-md-4 col-sm-6 portfolio-item">
 						<a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
 							<div class="portfolio-hover">
 								<div class="portfolio-hover-content">
@@ -218,8 +218,8 @@
 							<h4>Escape</h4>
 							<p class="text-muted">Website Design</p>
 						</div>
-					</div>
-					<div class="col-md-4 col-sm-6 portfolio-item">
+					</div>-->
+					<!--<div class="col-md-4 col-sm-6 portfolio-item">
 						<a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
 							<div class="portfolio-hover">
 								<div class="portfolio-hover-content">
@@ -231,7 +231,7 @@
 						<div class="portfolio-caption">
 							<h4>Dreams</h4>
 							<p class="text-muted">Website Design</p>
-						</div>
+						</div>-->
 					</div>
 				</div>
 			</div>
