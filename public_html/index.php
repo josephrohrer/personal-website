@@ -134,7 +134,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
-						<h1>About Section</h1>
+						<h1>ABOUT ME</h1>
 					</div>
 				</div>
 			</div>
@@ -272,25 +272,25 @@
 							</div>
 							<div class="clearfix"></div>
 
-							<!--empty area for form error/success output-->
-							<div class="col-md-12">
-							<div class="row">
-								<div class="col-xs-12">
-									<div id="output-area"></div>
+							<div class="col-lg-12 text-center">
+
+								<!--empty area for form error/success output-->
+								<div class="row">
+									<div class="col-xs-12">
+										<div id="output-area"></div>
+									</div>
 								</div>
-							</div>
-							</div>
 
-							<!-- reCAPTCHA -->
-							<div class="col-md-12 text-center">
+								<!-- reCAPTCHA -->
 								<div class="g-recaptcha" data-sitekey="6LencRcUAAAAAFTwMMC_Hv00hlvTxfaee7zTFmVs"></div>
-							</div>
 
-							<div class="row text-center">
-								<div id="success"></div>
-								<button type="submit" class="btn-xl">Send Message</button>
-							</div>
+								<!-- Button -->
+								<div class="row text-center">
+									<div id="success"></div>
+										<button type="submit" class="btn-xl">Send Message</button>
+								</div>
 
+							</div>
 						</form>
 					</div>
 				</div>
@@ -337,9 +337,8 @@
 									<p>
 										<strong>Want these icons in this portfolio item sample?</strong>You can download 60 of them for free, courtesy of <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">RoundIcons.com</a>, or you can purchase the 1500 icon set <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">here</a>.</p>
 									<ul class="list-inline">
-										<li>Date: July 2014</li>
-										<li>Client: Round Icons</li>
-										<li>Category: Graphic Design</li>
+										<li>Date: March 2017</li>
+										<li>Category: Website Design/Database Design</li>
 									</ul>
 									<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
 								</div>

@@ -19,10 +19,10 @@ $(document).ready(function(){
 				email: true,
 				required: true
 			},
-			// phone: {
-				//phoneUs: true,
-				//required: true
-			//},
+			phone: {
+				phoneUs: true,
+				required: false
+			},
 			message: {
 				required: true,
 				maxlength: 2000

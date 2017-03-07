@@ -220,7 +220,7 @@ section#contact .form-group textarea.form-control {
 	height: 236px;
 }
 section#contact .form-control:focus {
-	border-color: #fed136;
+	border-color: #941100;
 	box-shadow: none;
 }
 section#contact ::-webkit-input-placeholder {
@@ -251,4 +251,48 @@ section#contact :-ms-input-placeholder {
 }
 section#contact .text-danger {
 	color: #e74c3c;
+}
+
+.btn-primary {
+	color: white;
+	background-color: #941100;
+	border-color: #941100;
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+	color: white;
+	background-color: #941100;
+	border-color: #941100;
+}
+.btn-xl {
+	color: white;
+	background-color: #941100;
+	border-color: #941100;
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+	border-radius: 3px;
+	font-size: 18px;
+	padding: 10px 20px;
+	margin-top: 20px;
+}
+.btn-xl:hover,
+.btn-xl:focus,
+.btn-xl:active,
+.btn-xl.active,
+.open .dropdown-toggle.btn-xl {
+	color: white;
+	background-color: #5a5a5a;
+	border-color: #5a5a5a;
+}
+.btn-xl:active,
+.btn-xl.active,
+.open .dropdown-toggle.btn-xl {
+	background-image: none;
 }
