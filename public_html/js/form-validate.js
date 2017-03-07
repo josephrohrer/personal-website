@@ -40,7 +40,7 @@ $(document).ready(function(){
 			},
 			phone: {
 				phoneUs: "Please enter a valid phone number."
-			//},
+			},
 			message: {
 				required: "Please enter a message.",
 				maxlength: "2000 characters max."
