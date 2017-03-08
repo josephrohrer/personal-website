@@ -184,11 +184,11 @@
 									<i class="fa fa-plus fa-3x"></i>
 								</div>
 							</div>
-							<img src="images/portfolio/treehouse.png" class="img-responsive" alt="">
+							<img src="images/portfolio/thunderbirds.png" class="img-responsive" alt="">
 						</a>
 						<div class="portfolio-caption">
-							<h4>Treehouse</h4>
-							<p class="text-muted">Website Design</p>
+							<h4>Albuquerque Thunderbirds - Brochure</h4>
+							<p class="text-muted">Graphic Design</p>
 						</div>
 					</div>
 					<!--<div class="col-md-4 col-sm-6 portfolio-item">
@@ -364,10 +364,9 @@
 							<div class="col-lg-8 col-lg-offset-2">
 								<div class="modal-body">
 									<h2>Best Buy - Connected Store</h2>
-									<p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+									<!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
 									<img class="img-responsive img-centered" src="images/portfolio/bestbuy-preview.png" alt="">
-									<p><a href="http://designmodo.com/startup/?u=787">Startup Framework</a> is a website builder for professionals. Startup Framework contains components and complex blocks (PSD+HTML Bootstrap themes and templates) which can easily be integrated into almost any design. All of these components are made in the same style, and can easily be integrated into projects, allowing you to create hundreds of solutions for your future projects.</p>
-									<p>You can preview Startup Framework <a href="http://designmodo.com/startup/?u=787">here</a>.</p>
+									<p>Signs created for a company-wide Pilot program and implemented in District store in New Mexico and Las Vegas, Nevada.</p>
 									<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
 								</div>
 							</div>
@@ -392,11 +391,10 @@
 							<div class="col-lg-8 col-lg-offset-2">
 								<div class="modal-body">
 									<!-- Project Details Go Here -->
-									<h2>Project Name</h2>
-									<p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-									<img class="img-responsive img-centered" src="images/portfolio/treehouse-preview.png" alt="">
-									<p>Treehouse is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. This is bright and spacious design perfect for people or startup companies looking to showcase their apps or other projects.</p>
-									<p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/treehouse-free-psd-web-template/">FreebiesXpress.com</a>.</p>
+									<h2>Thunderbirds - Brochure</h2>
+									<!--<p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
+									<img class="img-responsive img-centered" src="images/portfolio/thunderbirds-preview.png" alt="">
+									<p>Brochure created for the Albuquerque Thunderbirds NBA Development League team for the 2007-2008 season.</p>
 									<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
 								</div>
 							</div>
