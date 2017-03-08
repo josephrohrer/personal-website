@@ -291,7 +291,7 @@
 		</section>
 
 		<!-- Social Media Section -->
-		<aside class="clients">
+		<aside id="contact" class="clients">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 text-center">
@@ -324,7 +324,7 @@
 		</aside>
 
 		<!-- Contact Section -->
-		<section id="contact" class="contact-section">
+		<section class="contact-section">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 text-center">
