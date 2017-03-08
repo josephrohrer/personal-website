@@ -333,9 +333,7 @@
 									<h2>ABQuery</h2>
 									<p class="item-intro text-muted">Capstone group project from the Deep Dive Coding Bootcamp.</p>
 									<img class="img-responsive img-centered" src="images/portfolio/abquery-preview.png" alt="">
-									<p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-									<p>
-										<strong>Want these icons in this portfolio item sample?</strong>You can download 60 of them for free, courtesy of <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">RoundIcons.com</a>, or you can purchase the 1500 icon set <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">here</a>.</p>
+									<p>ABQuery is a local web platform that can be used to search for relevant information about a specific area in Albuquerque. This could be used for a resident or potential resident who wanted to gather query data relative to a given location.</p>
 									<ul class="list-inline">
 										<li>Date: March 2017</li>
 										<li>Category: Website Design/Database Design</li>
