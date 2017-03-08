@@ -134,7 +134,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 text-center">
-						<h2 class="section-heading">About Me</h2>
+						<h1>ABOUT ME</h1><br>
 					</div>
 				</div>
 				<div class="row">
@@ -172,21 +172,20 @@
 							</li>
 							<li class="timeline-inverted">
 								<div class="timeline-image">
-									<img class="img-circle img-responsive" src="imagesg/about/4.jpg" alt="">
+									<img class="img-circle img-responsive" src="images/about/4.jpg" alt="">
 								</div>
 								<div class="timeline-panel">
 									<div class="timeline-heading">
 										<h4>Web Development</h4>
 									</div>
+									<div class="timeline-body">
 									</div>
 								</div>
 							</li>
 							<li class="timeline-inverted">
-								<div class="timeline-image">
-									<h4>Be Part
-										<br>Of Our
-										<br>Story!</h4>
-								</div>
+								<a href="joseph_rohrer_resume.pdf" target="_blank"><div class="timeline-image">
+									<h4>DOWNLOAD<br>A RESUME</h4>
+									</div></a>
 							</li>
 						</ul>
 					</div>
@@ -291,12 +290,44 @@
 			</div>
 		</section>
 
+		<!-- Social Media Section -->
+		<aside class="clients">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12 text-center">
+						<h1>CONTACT</h1><br>
+					</div>
+				<div class="row">
+
+					<div class="col-md-3 col-sm-6">
+						<!--<a href="#">
+							<img src="img/logos/envato.jpg" class="img-responsive img-centered" alt="">
+						</a>   -->
+					</div>
+					<div class="col-md-3 col-sm-6">
+						<!--<a href="#">
+							<img src="img/logos/designmodo.jpg" class="img-responsive img-centered" alt="">
+						</a> -->
+					</div>
+					<div class="col-md-3 col-sm-6">
+						<!-- <a href="#">
+							<img src="img/logos/themeforest.jpg" class="img-responsive img-centered" alt="">
+						</a> -->
+					</div>
+					<div class="col-md-3 col-sm-6">
+						<!-- <a href="#">
+							<img src="img/logos/creative-market.jpg" class="img-responsive img-centered" alt="">
+						</a>-->
+					</div>
+				</div>
+			</div>
+		</aside>
+
 		<!-- Contact Section -->
 		<section id="contact" class="contact-section">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 text-center">
-						<h1>CONTACT</h1><br>
 					</div>
 					<div class="row">
 						<form id="contactForm" action="php/mailer.php" method="post">
