@@ -187,7 +187,7 @@
 							<img src="images/portfolio/thunderbirds.png" class="img-responsive" alt="">
 						</a>
 						<div class="portfolio-caption">
-							<h4>Albuquerque Thunderbirds - Brochure</h4>
+							<h4>Thunderbirds - Brochure</h4>
 							<p class="text-muted">Graphic Design</p>
 						</div>
 					</div>
@@ -391,7 +391,7 @@
 							<div class="col-lg-8 col-lg-offset-2">
 								<div class="modal-body">
 									<!-- Project Details Go Here -->
-									<h2>Thunderbirds - Brochure</h2>
+									<h2>Albuquerque Thunderbirds - Brochure</h2>
 									<!--<p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
 									<img class="img-responsive img-centered" src="images/portfolio/thunderbirds-preview.png" alt="">
 									<p>Brochure created for the Albuquerque Thunderbirds NBA Development League team for the 2007-2008 season.</p>
