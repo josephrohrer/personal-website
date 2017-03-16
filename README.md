@@ -27,3 +27,9 @@ Contact form is good. For the Social Media icons, have a look Font Awesome. Very
 Great job on your wireframes.
 
 ### You've passed Milestone 2a in Tier IV. Great job.
+
+## Final Feedback
+
+You did an awesome job on the design and layout of your PWP.  The layout is very pleasing to the eye and I love how the nav bar lights up corresponding to which section in the page a person is in.  Our social media presence needs a little fine tuning, but I understand that you might decide to start rebranding after this class is out. The content of your site is a Tier four unfortunately, the contact form doesn't work. If you need help debugging the form I am more than happy to help!!
+
+### Grade: Tier IV
